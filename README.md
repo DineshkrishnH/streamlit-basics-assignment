@@ -1,2 +1,2 @@
 # streamlit-basics-assignment
-sales summary data
+This repository contain sales data.
